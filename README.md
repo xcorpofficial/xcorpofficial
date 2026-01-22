@@ -1,16 +1,21 @@
-## Hi there 👋
+<img align='right' src="https://github.com/vanhohen/vanhohen/blob/main/sun.jpg" width="200" height="200">
 
-<!--
-**xcorpofficial/xcorpofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  > “Be yourself; everyone else is already taken.”<br>
+                   - Oscar Wilde
 
-Here are some ideas to get you started:
+<br><br><br><br><br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+```python
+import intro
+
+message = {
+    "name"          :   "xcorpofficial",
+    "job"           :   "Engineer",
+    "learning"      :   "Cloud",
+    "interested"    :   "hacking"
+}
+
+print(message)
+```
