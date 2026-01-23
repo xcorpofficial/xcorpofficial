@@ -11,10 +11,10 @@
 import intro
 
 message = {
-    "name"          :   "xcorpofficial",
+    "name"          :   "N/A",
     "job"           :   "Engineer",
     "learning"      :   "Cloud",
-    "interested"    :   "hacking"
+    "interested"    :   "Hacking"
 }
 
 print(message)
