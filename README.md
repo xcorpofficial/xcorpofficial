@@ -13,7 +13,7 @@ import intro
 message = {
     "name"          :   "N/A",
     "job"           :   "Engineer",
-    "learning"      :   "Cloud",
+    "learning"      :   "AppSec",
     "interested"    :   "Hacking"
 }
 
